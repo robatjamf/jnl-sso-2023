@@ -43,6 +43,9 @@ https://learn.microsoft.com/en-us/azure/active-directory/devices/troubleshoot-ma
 
 ---
 <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/>
+
 ## Apple-SSO-Tools from Microsoft
 
 https://github.com/AzureAD/Apple-SSO-Tools
+
+---
