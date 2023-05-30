@@ -2,8 +2,6 @@
 
 ### London, RheinMain, Paris & Amsterdam 
 
-<img width="18" height="18" src="https://img.icons8.com/color/48/calendar--v1.png" alt="calendar--v1"/>  **9th - 20th June 2023**
-
 ---
 <img width="48" height="48" src="https://img.icons8.com/sf-regular/48/mac-os.png" alt="mac-os"/>
 
