@@ -1,4 +1,4 @@
-<img src="https://media.jamf.com/images/events/user-conferences/jnl-Europe-headericon-300.png" alt="toplogo" />
+<img src="jnlgithubbanner.png" alt="toplogo" />
 
 # Jamf Nation Live Europe
 ### London, RheinMain, Paris & Amsterdam | 9th - 20th June 2023
