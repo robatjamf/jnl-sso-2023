@@ -24,7 +24,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
 
 ### Macadmins slack
-[Link to the channel #microsoft-aad](https://macadmins.slack.com/archives/C03PDM79GKG
+[Link to the channel #microsoft-aad](https://macadmins.slack.com/archives/C03PDM79GKG)
 
 If you are not a memeber you can register [here](https://www.macadmins.org/)
 
